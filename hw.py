@@ -1,0 +1,1 @@
+take input from user and check if the length of username is odd or even
